@@ -34,8 +34,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ClassLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\ClassLibrary.1.0.0\lib\net452\ClassLibrary.dll</HintPath>
+    <Reference Include="ClassLibrary, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\ClassLibrary.1.1.0\lib\net461\ClassLibrary.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
