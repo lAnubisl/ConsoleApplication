@@ -34,8 +34,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ClassLibrary, Version=1.6.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>packages\ClassLibrary.1.6.0\lib\net461\ClassLibrary.dll</HintPath>
+    <Reference Include="ClassLibrary, Version=1.7.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>packages\ClassLibrary.1.7.0\lib\net461\ClassLibrary.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
